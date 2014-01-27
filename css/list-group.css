@@ -3,7 +3,7 @@
 }
 
 .list-group-item {
-    display: block;
+    display: block; /* Makes Li itemsLine up virtically */
 }
 
 .list-group-item:before {
@@ -11,5 +11,5 @@
 }
 
 .list-group-item-inline {
- display: inline-block;
+ display: inline-block; /* Makes Li itemsLine up horizontal */
 }
