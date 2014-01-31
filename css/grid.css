@@ -1,0 +1,20 @@
+.grid {
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+.unit {
+    float: left;
+    width: 33.3333%;
+    background-color: #fff;
+}
+
+.unit-2-3 {
+    width: 66.6666%;
+    background-color: #e2e2e2;
+}
+
+.gutter {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
